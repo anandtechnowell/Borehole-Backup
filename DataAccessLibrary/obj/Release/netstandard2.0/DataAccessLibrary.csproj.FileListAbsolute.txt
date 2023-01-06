@@ -1,0 +1,15 @@
+C:\BOREHOLE\DataAccessLibrary\bin\Release\netstandard2.0\DataAccessLibrary.deps.json
+C:\BOREHOLE\DataAccessLibrary\bin\Release\netstandard2.0\DataAccessLibrary.dll
+C:\BOREHOLE\DataAccessLibrary\bin\Release\netstandard2.0\DataAccessLibrary.pdb
+C:\BOREHOLE\DataAccessLibrary\bin\Release\netstandard2.0\System.Configuration.dll
+C:\BOREHOLE\DataAccessLibrary\bin\Release\netstandard2.0\System.Security.dll
+C:\BOREHOLE\DataAccessLibrary\bin\Release\netstandard2.0\System.Configuration.xml
+C:\BOREHOLE\DataAccessLibrary\bin\Release\netstandard2.0\System.Security.xml
+C:\BOREHOLE\DataAccessLibrary\obj\Release\netstandard2.0\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\BOREHOLE\DataAccessLibrary\obj\Release\netstandard2.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\BOREHOLE\DataAccessLibrary\obj\Release\netstandard2.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\BOREHOLE\DataAccessLibrary\obj\Release\netstandard2.0\DataAccessLibrary.AssemblyInfo.cs
+C:\BOREHOLE\DataAccessLibrary\obj\Release\netstandard2.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\BOREHOLE\DataAccessLibrary\obj\Release\netstandard2.0\DataAccessLibrary.csproj.CopyComplete
+C:\BOREHOLE\DataAccessLibrary\obj\Release\netstandard2.0\DataAccessLibrary.dll
+C:\BOREHOLE\DataAccessLibrary\obj\Release\netstandard2.0\DataAccessLibrary.pdb
