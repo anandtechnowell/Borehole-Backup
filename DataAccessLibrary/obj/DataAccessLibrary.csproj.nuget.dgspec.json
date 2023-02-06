@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BOREHOLE\\DataAccessLibrary\\DataAccessLibrary.csproj": {}
+    "D:\\BOREHOLE FINAL CLONE\\Borehole Backup\\DataAccessLibrary\\DataAccessLibrary.csproj": {}
   },
   "projects": {
-    "C:\\BOREHOLE\\DataAccessLibrary\\DataAccessLibrary.csproj": {
+    "D:\\BOREHOLE FINAL CLONE\\Borehole Backup\\DataAccessLibrary\\DataAccessLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BOREHOLE\\DataAccessLibrary\\DataAccessLibrary.csproj",
+        "projectUniqueName": "D:\\BOREHOLE FINAL CLONE\\Borehole Backup\\DataAccessLibrary\\DataAccessLibrary.csproj",
         "projectName": "DataAccessLibrary",
-        "projectPath": "C:\\BOREHOLE\\DataAccessLibrary\\DataAccessLibrary.csproj",
+        "projectPath": "D:\\BOREHOLE FINAL CLONE\\Borehole Backup\\DataAccessLibrary\\DataAccessLibrary.csproj",
         "packagesPath": "C:\\Users\\Ramesh VK\\.nuget\\packages\\",
-        "outputPath": "C:\\BOREHOLE\\DataAccessLibrary\\obj\\",
+        "outputPath": "D:\\BOREHOLE FINAL CLONE\\Borehole Backup\\DataAccessLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

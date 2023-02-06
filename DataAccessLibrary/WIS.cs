@@ -14,7 +14,7 @@ public class WIS
     public NpgsqlCommand cmd;
     //  public string UserName = "";
     object obj_lock = new object();
-    string strpgcon = "SERVER=182.18.181.115;DATABASE=WISAdministration;UID=postgres;PASSWORD=technowell;";
+    string strpgcon = ConfigurationManager.ConnectionStrings["adminpgsql"].ConnectionString;
     public WIS()
     {
         conn.ConnectionString = strpgcon;
@@ -45,6 +45,31 @@ public class WIS
                     conn.Close();
                     throw new ApplicationException(ex.Message);
                 }
+            }
+        }
+    }
+
+    public int Update(NpgsqlCommand _cmd)
+    {
+        lock (obj_lock)
+        {
+            try
+            {
+                int i = 0;
+                cmd = _cmd;
+                lock (cmd)
+                {
+                    cmd.Connection = conn;
+                    cmd.Connection.Open();
+                    i = cmd.ExecuteNonQuery();
+                    cmd.Connection.Close();
+                    return i;
+                }
+            }
+            catch (Exception ex)
+            {
+                cmd.Connection.Close();
+                throw new ApplicationException(ex.Message);
             }
         }
     }
